@@ -1,2 +1,2 @@
 About the project:
-Implemented a graphical command executor resembling a calculator. Constructed the back-end using C++ object-oriented programming, utilizing STL packages and the Boost library. Leveraged the Qt framework to deliver an intuitive user interface.
+Implemented a graphical command executor resembling a calculator. Constructed the back-end using C++ object-oriented programming, utilizing STL packages and the Boost library. Leveraged the Qt framework to deliver an intuitive user interface. Using this application, users can execute commands, review the history of previously executed commands along with their outcomes, and delete them.
